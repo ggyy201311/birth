@@ -19,13 +19,10 @@ var config = {
         "你只需要",
         "向着理想前进",
         "-------",
-        "愿你事事顺利，余生皆甜",
-        "继续长成厉害的大人和永远是万事胜意的女孩",
-        "from",
-        "Matrix"
+       
     ],
     desc: {
-        turn_on: "送给世界上最可爱的晓晓",
+        turn_on: "送给世界上最可爱的YY",
         play: "音乐",
         bannar_coming: "颜色",
         balloons_flying: "好像少点东西",
