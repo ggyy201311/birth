@@ -12,7 +12,7 @@ var config = {
        
     ],
     desc: {
-        turn_on: "送给世界上最可爱的赖赖小姐。。",
+        turn_on: "送给世界上最可爱的小芬。。",
         play: "音乐",
         bannar_coming: "颜色",
         balloons_flying: "好像少点东西",
